@@ -1,3 +1,7 @@
 Exercise 1
 Q1: The GitHub website helps me understand changes better because it shows each commit visually with highlighted additions. The command line is more precise but less visual.
 Q2: Yes, the commit history clearly shows the essay growing step by step: title, introduction, body.
+
+
+Exercise3:
+          https://github.com/firstcontributions/first-contributions/pull/126585#event-33161882341
